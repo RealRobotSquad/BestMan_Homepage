@@ -1,3 +1,3 @@
 # BestMan
 
-[link to website](https://yding25.com/bestman/)
+[link to website](www.bestmansim.com)
